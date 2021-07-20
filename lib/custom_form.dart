@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:textfield/custom_text_form_field.dart';
-import 'package:textfield/styles/app_sizes.dart';
-import 'package:textfield/styles/app_text_styles.dart';
+import 'custom_text_form_field.dart';
+import 'styles/app_sizes.dart';
+import 'styles/app_text_styles.dart';
 
 class CustomForm extends StatefulWidget {
   @override
